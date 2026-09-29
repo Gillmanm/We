@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://www.wasafibet.co.tz/casino/guess_the_cup",
+      "permanent": false
+    }
+  ]
+}
